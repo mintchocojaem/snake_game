@@ -97,6 +97,11 @@ The custom `SurfaceView` implementation for the Snake game, responsible for rend
   - `initializeScore()`: Resets the score to zero.
   - `increaseScore()`: Increases the score by 10 points when the snake eats food and notifies the listener.
 
+## Demo
+
+https://github.com/mintchocojaem/snake_game/assets/91131509/e66d8fb1-9fd7-4026-95dd-500300a33d74
+
+
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
