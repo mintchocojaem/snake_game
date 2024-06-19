@@ -10,6 +10,7 @@ This repository contains an Android application implementing a simple Snake game
 - [Code Overview](#code-overview)
   - [MainActivity](#mainactivity)
   - [SnakeGame](#snakegame)
+- [Demo](#demo)
 - [License](#license)
 
 ## Installation
